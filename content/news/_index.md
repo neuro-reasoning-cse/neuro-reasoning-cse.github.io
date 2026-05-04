@@ -4,6 +4,8 @@ welcome_intro: Stay up to date with the latest events and achievements from our 
 
 
 news:
+  - date: "04/2026"
+    content: "Our paper on iFire AI has been accepted at IJCAI 2026, showcasing our work on AI-based wildfire visualisation (https://www.unsw.edu.au/research/icinema/our-research/projects/ifire)."
   - date: "03/2026"
     content: "Presented a poster at NVIDIA's GTC: Reinforcement Learning for Follow-the-Leader Robotic Endoscopic Navigation via Synthetic Depth Data."
   - date: "02/2026"
