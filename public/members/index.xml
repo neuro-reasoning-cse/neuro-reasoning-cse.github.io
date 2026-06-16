@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Members on Neuro-Reasoning Lab</title>
-    <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/</link>
-    <description>Recent content in Members on Neuro-Reasoning Lab</description>
-    <generator>Hugo</generator>
+    <title>All Members - Neuro-Reasoning Lab</title>
+    <link>http://localhost:1313/members/</link>
+    <description>Neuro-Reasoning Lab</description>
+    <generator>Hugo 0.157.0 &amp; FixIt v0.4.0-alpha-20250721024521-a1cd700b</generator>
     <language>en-us</language>
-    <atom:link href="https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/members/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Academics</title>
+      <link>http://localhost:1313/members/faculty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/members/faculty/</guid>
+      <description>Our Academics</description>
+    </item>
+    <item>
+      <title>Our Alumni</title>
+      <link>http://localhost:1313/members/alumni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/members/alumni/</guid>
+      <description>Our Alumni</description>
+    </item>
+    <item>
+      <title>Our Collaborators</title>
+      <link>http://localhost:1313/members/collaborators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/members/collaborators/</guid>
+      <description>Our Collaborators</description>
+    </item>
+    <item>
+      <title>Our Students</title>
+      <link>http://localhost:1313/members/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/members/students/</guid>
+      <description>Our Students</description>
+    </item>
   </channel>
 </rss>

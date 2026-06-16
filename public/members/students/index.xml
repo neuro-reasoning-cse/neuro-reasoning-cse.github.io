@@ -1,80 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Students on Neuro-Reasoning Lab</title>
-    <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/</link>
-    <description>Recent content in Our Students on Neuro-Reasoning Lab</description>
-    <generator>Hugo</generator>
+    <title>Our Students - Neuro-Reasoning Lab</title>
+    <link>http://localhost:1313/members/students/</link>
+    <description>Neuro-Reasoning Lab</description>
+    <generator>Hugo 0.157.0 &amp; FixIt v0.4.0-alpha-20250721024521-a1cd700b</generator>
     <language>en-us</language>
-    <atom:link href="https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/members/students/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/haonan/</link>
+      <link>http://localhost:1313/members/students/haonan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/haonan/</guid>
+      <guid>http://localhost:1313/members/students/haonan/</guid>
       <description>&lt;p&gt;I am a PhD student in the School of Computer Science and Engineering, Faculty of Engineering, UNSW Sydney, supervised by A/Prof. Yang Song and Prof. Maurice Pagnucco. I received my Bachelor of Computer Science (Honours) from the University of New South Wales.&lt;/p&gt;&#xA;&lt;p&gt;My research focuses on Vision-Language Models and Image/Video Generation, with an emphasis on fairness, interpretability, and the reliability of AI systems.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/jiaqi/</link>
+      <link>http://localhost:1313/members/students/jiaqi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/jiaqi/</guid>
+      <guid>http://localhost:1313/members/students/jiaqi/</guid>
       <description>&lt;p&gt;Hi, I am currently a PhD candidate supervised by Prof. Pagnucco and Prof. Song. My current research interests include safety of large language models (LLMs), explainability of LLMs, parameter efficient fine-tuning, and model merging. I am also interested in studying these aspects in multimodal models, particularly vision–language models.&lt;/p&gt;&#xA;&lt;p&gt;Previously, I completed a Bachelor of Science in Computer Science at UNSW, and conducted honours research project under the supervision of Prof. Pagnucco.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/qingcheng/</link>
+      <link>http://localhost:1313/members/students/qingcheng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/qingcheng/</guid>
+      <guid>http://localhost:1313/members/students/qingcheng/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;I am Qingchen Tang, currently an MPhil student at the University of New South Wales (UNSW), supervised by Yang, with co-supervision from Flora and Sanjay.&lt;/p&gt;&#xA;&lt;p&gt;My research interests focus on vision–language models, generative model safety, and machine unlearning. I also have solid research experience in image segmentation, with particular attention to weakly supervised and annotation-efficient medical image segmentation.&lt;/p&gt;&#xA;&lt;p&gt;Prior to my MPhil studies, I completed a Master of Information Technology (Coursework) at UNSW. During this time, I undertook two research courses, COMP9991 and COMP9993, under the supervision of  Yang, where my work primarily investigated weakly supervised medical image segmentation methods.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/shenyang_qian/</link>
+      <link>http://localhost:1313/members/students/shenyang_qian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/shenyang_qian/</guid>
+      <guid>http://localhost:1313/members/students/shenyang_qian/</guid>
       <description>&lt;!-- #Required --&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Shenyang, a PhD student supervised by Yang.&lt;/p&gt;&#xA;&lt;p&gt;My research interests include object detection, computer vision, data augmentation, domain adaptation and few-shot learning. My current work focuses on deep learning based rip current detection methods, including dataset construction and detector design.&lt;/p&gt;&#xA;&lt;p&gt;Perviously, I completed a Master&amp;rsquo;s degree in Information Technology from UNSW, during which I undertook both COMP9991 and COMP9993 research projects supervised by Yang. These projects are related to few-shot learning in medical images segmentation.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/sicong/</link>
+      <link>http://localhost:1313/members/students/sicong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/sicong/</guid>
+      <guid>http://localhost:1313/members/students/sicong/</guid>
       <description>&lt;p&gt;Hi, I&amp;rsquo;m Sicong. I am an MPhil student supervised by supervised by Yang and Morri at the UNSW.&#xA;I completed my Bachelor’s degree in Computer Science at the UNSW, with a focus on artificial intelligence. During my MPhil studies, I was awarded the UNSW PhD UIPA Scholarship.&#xA;My current research interests include vision–language models, parameter-efficient fine-tuning, robot navigation, and medical image segmentation. If you share similar interests, I would be very happy to discuss potential collaborations.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/this-is-tammy/</link>
+      <link>http://localhost:1313/members/students/this-is-tammy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/this-is-tammy/</guid>
+      <guid>http://localhost:1313/members/students/this-is-tammy/</guid>
       <description>&lt;p&gt;Hello my reader! I am Tammy, a PhD student supervised by Morri and Yang. Previously, I graduated from Bachelor of Engineering (Honours) (Software) at UNSW where Morri was also my primary supervisor for my honours thesis. Currently, my research focus is on the area of Computational Machine Ethics (check out our survey paper on this!).I am specifically on ethical AI agents.&lt;/p&gt;&#xA;&lt;p&gt;I am also invested in exploring the capabilities of large language models and their capabilities in ethical decision-making or how we can leverage them to facilitate such processes (a bit controversial!). More generally, the intersection between the ambiguity/art of humans and the certainty/science of machines interests me greatly.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/wenbin/</link>
+      <link>http://localhost:1313/members/students/wenbin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/wenbin/</guid>
+      <guid>http://localhost:1313/members/students/wenbin/</guid>
       <description>&lt;p&gt;Hi, I’m Wenbin, a PhD Candidate at UNSW, supervised by &lt;strong&gt;Prof. Sanjay Jha&lt;/strong&gt; and &lt;strong&gt;A/Prof. Yang Song&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;My research primarily focuses on &lt;strong&gt;Generative AI&lt;/strong&gt; and &lt;strong&gt;Text-to-Speech (TTS)&lt;/strong&gt; technologies, with a specific interest in &lt;strong&gt;Voice Cloning&lt;/strong&gt;, &lt;strong&gt;Talking-head Generation&lt;/strong&gt;, and &lt;strong&gt;Zero-Shot Speaker-Adaptive TTS&lt;/strong&gt;. I am also actively researching &lt;strong&gt;Voice Data Attribution&lt;/strong&gt; and &lt;strong&gt;Anti-Spoofing&lt;/strong&gt; within the context of trustworthy digital societies.&lt;/p&gt;&#xA;&lt;p&gt;Beyond academia, I am the &lt;strong&gt;Co-founder and Technical Lead of Sozio.AI Pty Ltd&lt;/strong&gt;, a UNSW-incubated startup where we are developing a &amp;ldquo;Virtual Tutor System&amp;rdquo; to bring real-time, interactive AI avatars to education. My work bridges the gap between cutting-edge research and commercial application, translating theoretical advancements into scalable products.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/yafei/</link>
+      <link>http://localhost:1313/members/students/yafei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/yafei/</guid>
+      <guid>http://localhost:1313/members/students/yafei/</guid>
       <description>&lt;p&gt;Hi, I’m Yafei, a Master of Philosophy candidate at the University of New South Wales (UNSW), supervised by Dr. Yang Song and Prof. Erik Meijering.&lt;/p&gt;&#xA;&lt;p&gt;My research primarily focuses on Remote Sensing Change Detection (CD). I am particularly interested in addressing the data scarcity challenge in remote sensing by leveraging Image-to-Image (I2I) translation and Generative Models (GANs/Diffusion) to produce high-quality synthetic data. By bridging the synthetic-real domain gap, my work aims to enhance the robustness of change detection frameworks under supervised and semi-supervised settings.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/yiwen/</link>
+      <link>http://localhost:1313/members/students/yiwen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/yiwen/</guid>
+      <guid>http://localhost:1313/members/students/yiwen/</guid>
       <description>&lt;p&gt;Hi, I’m Yiwen, a PhD candidate supervised by Yang Song, Maurice Pagnucco, and Erik Meijering.&#xA;My research interests include image reconstruction and editing, biomedical image analysis, and efficient deep learning for edge computing. I am particularly interested in developing practical computer vision methods that balance visual quality and reliability with real-world constraints such as limited compute, memory, and latency.&lt;/p&gt;&#xA;&lt;p&gt;In addition, I am interested in foundation models and their adaptation to domain shifts and resource-constrained deployment.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/yongze_wang/</link>
+      <link>http://localhost:1313/members/students/yongze_wang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/yongze_wang/</guid>
+      <guid>http://localhost:1313/members/students/yongze_wang/</guid>
       <description>&lt;p&gt;Hi, I’m a PhD student supervised by Yang and Morri.&#xA;My current research interests include Domain adaptation, Few-shot learning, Cross-domain few-shot, and Image segmentation.&lt;/p&gt;</description>
     </item>
   </channel>

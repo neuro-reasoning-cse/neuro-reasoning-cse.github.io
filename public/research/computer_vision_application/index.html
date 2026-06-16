@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+    <meta name="robots" content="noodp" />
+    <title>Neuro-Reasoning Lab</title><meta name="author" content="">
+<meta name="description" content="">
+  <meta itemprop="name" content="Computer Vision and Robotics Applications"><meta property="og:url" content="http://localhost:1313/research/computer_vision_application/">
+  <meta property="og:site_name" content="Neuro-Reasoning Lab">
+  <meta property="og:title" content="Computer Vision and Robotics Applications">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="website">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Computer Vision and Robotics Applications">
+<meta name="application-name" content="FixIt">
+<meta name="apple-mobile-web-app-title" content="FixIt"><meta name="theme-color" data-light="#f8f8f8" data-dark="#252627" content="#f8f8f8"><meta name="msapplication-TileColor" content="#da532c"><link rel="icon" href="/ai16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="canonical" type="text/html" href="http://localhost:1313/research/computer_vision_application/" title="Computer Vision and Robotics Applications - Neuro-Reasoning Lab" /><link rel="alternate" type="application/rss+xml" href="http://localhost:1313/research/computer_vision_application/index.xml" title="Computer Vision and Robotics Applications - Neuro-Reasoning Lab"><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="/lib/fontawesome-free/all.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"></noscript><link rel="preload" href="/lib/animate/animate.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/lib/animate/animate.min.css"></noscript><script src="/js/head/color-scheme.min.js"></script></head>
+  <body data-header-desktop="sticky" data-header-mobile="auto"><div class="wrapper" data-page-style="normal"><header class="desktop animate__faster" id="header-desktop">
+  <div class="header-wrapper">
+    <div class="header-title">
+      <a href="/" title="Neuro-Reasoning Lab"><span class="header-title-text">Neuro-Reasoning Lab</span></a><span class="header-subtitle"></span></div>
+    <nav>
+      <ul class="menu"><li class="menu-item">
+              <a class="menu-link" href="/news">News</a></li><li class="menu-item has-children">
+              <a class="menu-link" href="javascript:void(0);">Members</a><i class="dropdown-icon fa-solid fa-chevron-down" aria-hidden="true"></i>
+                <ul class="sub-menu"><li class="menu-item">
+                        <a class="menu-link" href="/members/faculty/">Academics</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/members/students/">Students</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/members/collaborators/">Collaborators</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/members/alumni/">Alumni</a>
+                      </li></ul></li><li class="menu-item">
+              <a class="menu-link" href="/research/">Research</a></li><li class="menu-item">
+              <a class="menu-link" href="/projects/">Projects</a></li><li class="menu-item delimiter"></li><li class="menu-item theme-switch" title="Switch Theme">
+          <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+        </li></ul>
+    </nav>
+  </div>
+</header><header class="mobile animate__faster" id="header-mobile">
+  <div class="header-container">
+    <div class="header-wrapper">
+      <div class="header-title">
+        <a href="/" title="Neuro-Reasoning Lab"><span class="header-title-text">Neuro-Reasoning Lab</span></a><span class="header-subtitle"></span></div>
+      <div class="menu-toggle" id="menu-toggle-mobile">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+    <nav>
+      <ul class="menu" id="menu-mobile"><li class="menu-item"><a class="menu-link" href="/news">News</a></li><li class="menu-item"><span class="nested-item">
+                  <a class="menu-link" href="javascript:void(0);">Members</a>
+                  <i class="dropdown-icon fa-solid fa-chevron-right" aria-hidden="true"></i>
+                </span>
+                <ul class="sub-menu"><li class="menu-item">
+                        <a class="menu-link" href="/members/faculty/">Academics</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/members/students/">Students</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/members/collaborators/">Collaborators</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/members/alumni/">Alumni</a>
+                      </li></ul></li><li class="menu-item"><a class="menu-link" href="/research/">Research</a></li><li class="menu-item"><a class="menu-link" href="/projects/">Projects</a></li><li class="menu-item menu-system">
+          <span class="menu-system-item theme-switch" title="Switch Theme"><i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i></span></li>
+      </ul>
+    </nav>
+  </div>
+</header><main class="container">
+
+<style>
+  .research-title {
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 0.5rem;
+    width: 100%;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    font-variant: small-caps;
+    font-size: 1rem;
+    z-index: 2;
+    transition: background 0.3s ease, transform 0.3s ease;
+    display: block;
+    margin-top: auto;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+
+     
+
+  .research-title:hover {
+    background: rgba(0, 0, 0, 0.9);
+    transform: scale(1.03);
+  }
+
+    .theme-block{
+        width: 100%;
+        max-width: 1200px;
+        margin: 3.2rem auto 0 auto;
+        padding: 1.3rem 1.3rem 1.5rem 1.3rem;
+        border-radius: 16px;
+         
+        background: rgba(66, 153, 225, 0.05);
+        box-shadow: 0 10px 28px rgba(17, 24, 39, 0.06);
+        position: relative;
+    }
+
+
+   
+
+  .theme-title-row {
+    width: 100%;
+    margin-bottom: 1.2rem;
+     
+  }
+
+  .theme-title-text{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0 0 0.9rem 0;
+     
+    border-bottom: 3px solid rgba(66, 153, 225, 0.55);
+    position: relative;
+  }
+
+  .theme-title-main{
+    flex: 0 0 30%;
+    font-size: 1.45rem;
+    font-weight: 600;
+    line-height: 1.2;
+    white-space: nowrap;
+    padding-right: 1rem;
+  }
+
+  .theme-title-intro {
+    flex: 1 1 auto;
+    font-size: 0.95rem;
+    line-height: 1.55;
+    color: #555;
+  }
+
+   
+
+  .projects-grid {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-auto-rows: minmax(200px, auto);
+    gap: 1.5rem;
+  }
+
+    .project-card{
+    height: 240px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    }
+
+  .project-cover{
+      position: absolute;
+      inset: 0;
+      background-size: contain;
+      background-position: center;
+      background-repeat: no-repeat;
+      }
+
+  .project-img {
+    width: 100%;
+    height: 8.5rem;
+    object-fit: contain;
+    margin-top: 0.8rem;
+    background: transparent;
+  }
+
+  @media (max-width: 980px) {
+    .projects-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .theme-title-main {
+      flex: none;
+      width: 100%;
+      white-space: normal;
+    }
+    .theme-title-text {
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+  }
+
+  @media (max-width: 560px) {
+    .projects-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<div style="max-width: 1200px; margin: 0 auto; padding: 2rem; width: 100%;">
+
+  <h2 style="text-align: center; margin-bottom: 2rem;">Computer Vision and Robotics Applications</h2>
+
+  <div style="text-align: left; max-width: 1000px; margin: 0 auto;">
+    
+  </div>
+
+
+
+
+
+  
+  
+
+    <div class="theme-block">
+
+      
+      <div class="theme-title-row">
+        <div class="theme-title-text">
+          <span class="theme-title-main">
+            Computer Vision and Robotics Applications
+          </span>
+          
+        </div>
+      </div>
+
+      
+      
+
+      
+        <div class="projects-grid">
+
+          
+            <div class="project-card">
+
+              
+              
+                <div
+                  class="project-cover"
+                  style="background-image: url('/topics/image-gen.png');">
+                </div>
+              
+
+              
+              
+
+              
+              
+                <a
+                  href="/research/computer_vision_application/image-gen-enh/"
+                  class="research-title">
+                  Image Generation and Enhancement
+                </a>
+              
+
+            </div>
+          
+            <div class="project-card">
+
+              
+              
+                <div
+                  class="project-cover"
+                  style="background-image: url('/topics/act-reg.png');">
+                </div>
+              
+
+              
+              
+
+              
+              
+                <a
+                  href="/research/computer_vision_application/act-recognition/"
+                  class="research-title">
+                  Action Recognition
+                </a>
+              
+
+            </div>
+          
+            <div class="project-card">
+
+              
+              
+                <div
+                  class="project-cover"
+                  style="background-image: url('/topics/tra-pred.png');">
+                </div>
+              
+
+              
+              
+
+              
+              
+                <a
+                  href="/research/computer_vision_application/traj-pred/"
+                  class="research-title">
+                  Trajectory Prediction
+                </a>
+              
+
+            </div>
+          
+            <div class="project-card">
+
+              
+              
+                <div
+                  class="project-cover"
+                  style="background-image: url('/topics/act-plan.png');">
+                </div>
+              
+
+              
+              
+
+              
+              
+                <a
+                  href="/research/computer_vision_application/act-plan/"
+                  class="research-title">
+                  Action Planning
+                </a>
+              
+
+            </div>
+          
+            <div class="project-card">
+
+              
+              
+                <div
+                  class="project-cover"
+                  style="background-image: url('/topics/ano-detect.png');">
+                </div>
+              
+
+              
+              
+
+              
+              
+                <a
+                  href="/research/computer_vision_application/anom-detect/"
+                  class="research-title">
+                  Anomaly Detection
+                </a>
+              
+
+            </div>
+          
+            <div class="project-card">
+
+              
+              
+                <div
+                  class="project-cover"
+                  style="background-image: url('/topics/grain-ins.png');">
+                </div>
+              
+
+              
+              
+
+              
+              
+                <a
+                  href="/research/computer_vision_application/grain-insp/"
+                  class="research-title">
+                  Grain Quality Inspection
+                </a>
+              
+
+            </div>
+          
+            <div class="project-card">
+
+              
+              
+                <div
+                  class="project-cover"
+                  style="background-image: url('/topics/cur-detect.png');">
+                </div>
+              
+
+              
+              
+
+              
+              
+                <a
+                  href="/research/computer_vision_application/rip-detect/"
+                  class="research-title">
+                  Rip Current Detection
+                </a>
+              
+
+            </div>
+          
+
+        </div>
+      
+
+    </div>
+
+  
+
+    <div class="theme-block">
+
+      
+      <div class="theme-title-row">
+        <div class="theme-title-text">
+          <span class="theme-title-main">
+            AI Trustworthiness
+          </span>
+          
+        </div>
+      </div>
+
+      
+      
+
+      
+        <div class="projects-grid">
+
+          
+            <div class="project-card">
+
+              
+              
+                <div
+                  class="project-cover"
+                  style="background-image: url('/topics/interpretability.png');">
+                </div>
+              
+
+              
+              
+
+              
+              
+                <a
+                  href="/research/trustworthiness/interpretability/"
+                  class="research-title">
+                  Interpretability
+                </a>
+              
+
+            </div>
+          
+            <div class="project-card">
+
+              
+              
+                <div
+                  class="project-cover"
+                  style="background-image: url('/topics/fairness.png');">
+                </div>
+              
+
+              
+              
+
+              
+              
+                <a
+                  href="/research/trustworthiness/fairness/"
+                  class="research-title">
+                  Fairness, Debiasing and Robustness
+                </a>
+              
+
+            </div>
+          
+            <div class="project-card">
+
+              
+              
+                <div
+                  class="project-cover"
+                  style="background-image: url('/topics/truthfulness.png');">
+                </div>
+              
+
+              
+              
+
+              
+              
+                <a
+                  href="/research/trustworthiness/truthfulness/"
+                  class="research-title">
+                  Truthfulness
+                </a>
+              
+
+            </div>
+          
+            <div class="project-card">
+
+              
+              
+                <div
+                  class="project-cover"
+                  style="background-image: url('/topics/machine-ethics.png');">
+                </div>
+              
+
+              
+              
+
+              
+              
+                <a
+                  href="/research/trustworthiness/ethics/"
+                  class="research-title">
+                  Machine Ethics
+                </a>
+              
+
+            </div>
+          
+
+        </div>
+      
+
+    </div>
+
+  
+
+    <div class="theme-block">
+
+      
+      <div class="theme-title-row">
+        <div class="theme-title-text">
+          <span class="theme-title-main">
+            Biomedical Imaging
+          </span>
+          
+        </div>
+      </div>
+
+      
+      
+
+      
+        <div class="projects-grid">
+
+          
+            <div class="project-card">
+
+              
+              
+                <div
+                  class="project-cover"
+                  style="background-image: url('/topics/cancer-analysis.png');">
+                </div>
+              
+
+              
+              
+
+              
+              
+                <a
+                  href="/research/biomedical_image/cancer-analysis/"
+                  class="research-title">
+                  Cancer anaysis
+                </a>
+              
+
+            </div>
+          
+            <div class="project-card">
+
+              
+              
+                <div
+                  class="project-cover"
+                  style="background-image: url('/topics/brain-mri.png');">
+                </div>
+              
+
+              
+              
+
+              
+              
+                <a
+                  href="/research/biomedical_image/brain-mri/"
+                  class="research-title">
+                  Brain MRI
+                </a>
+              
+
+            </div>
+          
+            <div class="project-card">
+
+              
+              
+                <div
+                  class="project-cover"
+                  style="background-image: url('/topics/lesion-seg.png');">
+                </div>
+              
+
+              
+              
+
+              
+              
+                <a
+                  href="/research/biomedical_image/anatomical-and-lesion-segmentation/"
+                  class="research-title">
+                  Anatomical and Lesion Segmentation
+                </a>
+              
+
+            </div>
+          
+
+        </div>
+      
+
+    </div>
+
+  
+
+      </div>
+
+</div>
+
+</main><footer class="footer">
+    <div class="footer-container"><div class="footer-line powered">Powered by <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreferrer" title="Hugo 0.157.0"><img class="hugo-icon" src="/images/hugo.min.svg" alt="Hugo logo" /> Hugo</a> | Theme - <a href="https://github.com/hugo-fixit/FixIt" target="_blank" rel="external" title="FixIt v0.4.0-alpha-20250721024521-a1cd700b"><img class="fixit-icon" src="/images/fixit.min.svg" alt="FixIt logo" /> FixIt</a>
+        </div><div class="footer-line copyright" itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-regular fa-copyright fa-fw" aria-hidden="true"></i>
+            <span itemprop="copyrightYear">2026</span><span class="author" itemprop="copyrightHolder">
+              <a href="/"></a></span></div></div>
+  </footer></div><div class="widgets"><div class="fixed-buttons animate__faster d-none"><div class="fixed-button back-to-top" role="button" aria-label="Back to Top"><i class="fa-solid fa-arrow-up fa-fw" aria-hidden="true"></i><span class="variant-numeric d-none">0%</span>
+        </div></div><div id="mask"></div><noscript>
+    <div class="noscript-warning">This website works best with JavaScript enabled.</div>
+  </noscript>
+</div><link rel="stylesheet" href="/lib/cookieconsent/cookieconsent.min.css"><script src="/lib/sharer/sharer.min.js" async defer></script><script src="/lib/cookieconsent/cookieconsent.min.js" defer></script><script>window.config={"code":{"copyTitle":"Copy to clipboard","editLockTitle":"Lock editable code block","editUnLockTitle":"Unlock editable code block","editable":true,"maxShownLines":10},"cookieconsent":{"content":{"dismiss":"Got it!","link":"Learn more","message":"This website uses Cookies to improve your experience."},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"version":"v0.4.0-alpha-20250721024521-a1cd700b"};console.log('Page config:', window.config);</script><script src="/js/theme.min.js" defer></script></body>
+</html>

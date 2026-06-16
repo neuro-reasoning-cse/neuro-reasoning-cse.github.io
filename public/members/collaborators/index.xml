@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Collaborators on Neuro-Reasoning Lab</title>
-    <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/collaborators/</link>
-    <description>Recent content in Our Collaborators on Neuro-Reasoning Lab</description>
-    <generator>Hugo</generator>
+    <title>Our Collaborators - Neuro-Reasoning Lab</title>
+    <link>http://localhost:1313/members/collaborators/</link>
+    <description>Neuro-Reasoning Lab</description>
+    <generator>Hugo 0.157.0 &amp; FixIt v0.4.0-alpha-20250721024521-a1cd700b</generator>
     <language>en-us</language>
-    <atom:link href="https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/collaborators/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/members/collaborators/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

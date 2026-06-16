@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Academics on Neuro-Reasoning Lab</title>
-    <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/faculty/</link>
-    <description>Recent content in Our Academics on Neuro-Reasoning Lab</description>
-    <generator>Hugo</generator>
+    <title>Our Academics - Neuro-Reasoning Lab</title>
+    <link>http://localhost:1313/members/faculty/</link>
+    <description>Neuro-Reasoning Lab</description>
+    <generator>Hugo 0.157.0 &amp; FixIt v0.4.0-alpha-20250721024521-a1cd700b</generator>
     <language>en-us</language>
-    <atom:link href="https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/faculty/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/members/faculty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/faculty/ruoyu/</link>
+      <link>http://localhost:1313/members/faculty/ruoyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/faculty/ruoyu/</guid>
+      <guid>http://localhost:1313/members/faculty/ruoyu/</guid>
       <description>&lt;p&gt;Hi, I’m Ruoyu, a PhD student supervised by Yang and Morri.&#xA;My current research interests include vision–language models, parameter-efficient fine-tuning, domain-generalised semantic segmentation, and self-supervised learning. I also have extensive experience in nuclei segmentation and image enhancement.&lt;/p&gt;&#xA;&lt;p&gt;In addition, I am interested in large language models and their reasoning capabilities.&lt;/p&gt;&#xA;&lt;p&gt;Previously, I completed a Master of Information Technology (coursework) at UNSW, during which I undertook both COMP9991 and COMP9992 research projects supervised by Yang. These projects focused on noise-robust weakly supervised nuclei segmentation.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/faculty/yang/</link>
+      <link>http://localhost:1313/members/faculty/yang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/faculty/yang/</guid>
+      <guid>http://localhost:1313/members/faculty/yang/</guid>
       <description>&lt;p&gt;I am an ARC Future Fellow, Scientia Associate Professor and Associate Head of School (Research) in the School of Computer Science and Engineering, Faculty of Engineering, UNSW Sydney. I graduated with a BEng in Computer Engineering from Nanyang Technological University, Singapore, and obtained a PhD degree in Computer Science from the University of Sydney in 2013.&lt;/p&gt;&#xA;&lt;p&gt;I received the highly competitive Australian Research Council (ARC) Discovery Early Career Researcher Award (DECRA) in 2015, and was an ARC DECRA Fellow at the University of Sydney before joining UNSW as a Lecturer in 2018. I also received a Dean&amp;rsquo;s Research Award from the Faculty of Engineering, University of Sydney in 2017. In 2019, I was awarded the prestigious ARC Future Fellowship, which provides support for excellent mid-career researchers to undertake high quality research in areas of national and international benefit. In 2020, I was awarded a Scientia Fellowship from UNSW, which supports career development of outstanding researchers. In 2021, I received two grant awards from Google and the Faculty of Engineering Research Excellence Award. In 2022, I received a large NHMRC Ideas Grant on computational brain imaging led by my collaborator at Macquarie University. In 2023, I received a Women in AI award for AI in Innovation in the Asia-pacific region. I also received an ARC Linkage Project Grant on rip current detection in collaboration with Surf Life Saving Australia, and an Award for Inclusion Research from Google. In 2024, I am one of the chief investigators receiving a large ARC grant to establish the Industrial Transformation Research Hub for Human-Robot Teaming. In 2025, I received an ARC Discovery Project grant on contextualised commonsense reasoning with neuro-symbolic AI. I have been listed among the World&amp;rsquo;s Top 2% Scientists by Stanford University and Elsevier since 2022.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/faculty/morri/</link>
+      <link>http://localhost:1313/members/faculty/morri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/faculty/morri/</guid>
+      <guid>http://localhost:1313/members/faculty/morri/</guid>
       <description>&lt;p&gt;My Ph.D. dissertation (1996) investigated The Role of Abductive Reasoning within the Process of Belief Revision (click on this link to view the abstract and, if you wish, download a gzip&amp;rsquo;ed postscript version). It deals mainly with the belief revision framework developed by Alchourrón, Gärdenfors and Makinson (AGM) and uses this theory to investigate various abductive belief revision operators.&lt;/p&gt;&#xA;&lt;p&gt;My main research interests lie in Artificial Intelligence:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Knowledge Representation and Reasoning&lt;/li&gt;&#xA;&lt;li&gt;Belief Change&lt;/li&gt;&#xA;&lt;li&gt;Cognitive Robotics&lt;/li&gt;&#xA;&lt;li&gt;Reasoning About Actions&lt;/li&gt;&#xA;&lt;li&gt;Computational Machine Ethics&lt;/li&gt;&#xA;&lt;li&gt;Neurosymbolic Machine Learning&lt;/li&gt;&#xA;&lt;li&gt;Trustworthy Artificial Intelligence&lt;/li&gt;&#xA;&lt;li&gt;Reasoning and Truthfullness in Large Language Models&lt;/li&gt;&#xA;&lt;li&gt;Robotic Vision&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Currently I am the Deputy Dean (Education) of the Faculty of Engineering at UNSW.&lt;/p&gt;</description>
     </item>
   </channel>

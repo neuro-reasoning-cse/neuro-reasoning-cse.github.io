@@ -1,354 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Our Lab on Neuro-Reasoning Lab</title>
-    <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/</link>
-    <description>Recent content in Welcome to Our Lab on Neuro-Reasoning Lab</description>
-    <generator>Hugo</generator>
+    <title>Neuro-Reasoning Lab</title>
+    <link>http://localhost:1313/</link>
+    <description>Neuro-Reasoning Lab</description>
+    <generator>Hugo 0.157.0 &amp; FixIt v0.4.0-alpha-20250721024521-a1cd700b</generator>
     <language>en-us</language>
-    <atom:link href="https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/faculty/ruoyu/</link>
+      <link>http://localhost:1313/members/faculty/ruoyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/faculty/ruoyu/</guid>
-      <description>&lt;p&gt;Hi, I’m Ruoyu, a PhD student supervised by Yang and Morri.&#xA;My current research interests include vision–language models, parameter-efficient fine-tuning, domain-generalised semantic segmentation, and self-supervised learning. I also have extensive experience in nuclei segmentation and image enhancement.&lt;/p&gt;&#xA;&lt;p&gt;In addition, I am interested in large language models and their reasoning capabilities.&lt;/p&gt;&#xA;&lt;p&gt;Previously, I completed a Master of Information Technology (coursework) at UNSW, during which I undertook both COMP9991 and COMP9992 research projects supervised by Yang. These projects focused on noise-robust weakly supervised nuclei segmentation.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/faculty/yang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/faculty/yang/</guid>
-      <description>&lt;p&gt;I am an ARC Future Fellow, Scientia Associate Professor and Associate Head of School (Research) in the School of Computer Science and Engineering, Faculty of Engineering, UNSW Sydney. I graduated with a BEng in Computer Engineering from Nanyang Technological University, Singapore, and obtained a PhD degree in Computer Science from the University of Sydney in 2013.&lt;/p&gt;&#xA;&lt;p&gt;I received the highly competitive Australian Research Council (ARC) Discovery Early Career Researcher Award (DECRA) in 2015, and was an ARC DECRA Fellow at the University of Sydney before joining UNSW as a Lecturer in 2018. I also received a Dean&amp;rsquo;s Research Award from the Faculty of Engineering, University of Sydney in 2017. In 2019, I was awarded the prestigious ARC Future Fellowship, which provides support for excellent mid-career researchers to undertake high quality research in areas of national and international benefit. In 2020, I was awarded a Scientia Fellowship from UNSW, which supports career development of outstanding researchers. In 2021, I received two grant awards from Google and the Faculty of Engineering Research Excellence Award. In 2022, I received a large NHMRC Ideas Grant on computational brain imaging led by my collaborator at Macquarie University. In 2023, I received a Women in AI award for AI in Innovation in the Asia-pacific region. I also received an ARC Linkage Project Grant on rip current detection in collaboration with Surf Life Saving Australia, and an Award for Inclusion Research from Google. In 2024, I am one of the chief investigators receiving a large ARC grant to establish the Industrial Transformation Research Hub for Human-Robot Teaming. In 2025, I received an ARC Discovery Project grant on contextualised commonsense reasoning with neuro-symbolic AI. I have been listed among the World&amp;rsquo;s Top 2% Scientists by Stanford University and Elsevier since 2022.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Action Planing</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/act-plan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/act-plan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Action Recognition</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/act-recognition/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/act-recognition/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Anomaly Detection</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/anom-detect/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/anom-detect/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Brain MRI analysis</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/mri/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/mri/</guid>
-      <description>&lt;p&gt;Brain MRI analysis plays a central role in neuro-oncology, providing multi-sequence (e.g., T1, T2, FLAIR, T1ce) information for detecting and segmenting brain tumours and guiding treatment planning. However, real-world clinical workflows often face missing or incrementally acquired modalities, which can degrade segmentation performance and make retraining impractical. In our recent work (MICCAI 2025), we propose a domain-incremental framework that uses a replay buffer, a cross-patient hypergraph segmentation network, and a Tversky-aware contrastive loss to learn from newly available MRI modalities without forgetting previously learned ones and to better handle inter-modality imbalance.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cancer Analysis</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/biomedical_image/cancer-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/biomedical_image/cancer-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Class Imbalanced Learning</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/imb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/imb/</guid>
-      <description>&lt;p&gt;Class-imbalanced and long-tailed learning focus on scenarios where some classes have many samples while others have very few. Standard deep networks tend to overfit majority classes and under-represent rare but clinically important categories, leading to biased decision boundaries and poor minority-class performance. Our contributions span both medical and natural image domains. In medical imaging, we propose imbalance-aware methods such as a deep feature graph attention network for histopathology (ISBI 2022), which models patch–patch relationships to better capture minority patterns, and adaptive unified contrastive learning with graph-based feature aggregation (ESWA), which reweights contrastive objectives to reduce majority-class bias. In the natural image domain, we develop a decoupled optimisation framework (AAAI 2024) for long-tailed recognition that separates and optimises different parameter groups with tailored objectives, significantly improving performance across head, medium, and tail classes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Computational Machine Ethics</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/cme/cme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/cme/cme/</guid>
-      <description>&lt;p&gt;#Required&lt;/p&gt;&#xA;&lt;p&gt;Computational Machine Ethics aims to embed ethical decision-making into machines (e.g., robots). This presents many challenges due to the abstract nature of ethics and the endless possibilities of ethical situations one may encounter. Being &amp;ldquo;ethical&amp;rdquo; in a situation can be dependant on context and different individuals and groups may define what is &amp;ldquo;right&amp;rdquo; and &amp;ldquo;wrong&amp;rdquo; differently depending on factors such as their culture and background. Additionally, ethical dilemmas where different rules may come into conflict are, in themselves, difficult problems with no one correct answer.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Computer Vision Applications</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/cva/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/cva/</guid>
-      <description>&lt;p&gt;These papers represent research contributions across agricultural image analysis, medical and industrial computer vision, and interpretable deep learning. My work includes building large-scale datasets (e.g., GrainSpace, MANTA), developing image quality inspection systems for cereal grains, advancing anomaly detection and multimodal fusion methods, and contributing to interpretable AI research. These publications span top venues such as CVPR, IEEE TII, TGRS, RA-L, Scientific Data, and ECAI.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fairness, Debiasing and Robustness</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/fairness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/fairness/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Generative Models</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/gm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/gm/</guid>
-      <description>&lt;p&gt;These papers extend my research into generative models, vision-language models, and anomaly detection. The work includes human image generation with pose priors (AAAI 2025), counterfactual-aware procedural planning (ACM MM 2025), and visual-language models for anomaly detection (ACM MM 2025). Together, they reflect my broader contributions to advanced deep learning methods in computer vision and multimodal AI.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Grain Quality Inspection</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/grain-insp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/grain-insp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Histopathology Stain Normalisation</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/stnorm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/stnorm/</guid>
-      <description>&lt;p&gt;Stain normalization aims to reduce colour and intensity variations in H&amp;amp;E-stained histopathology images that arise from differences in staining protocols, reagents, and scanners. These variations can seriously degrade the robustness and generalisability of downstream algorithms for classification, segmentation, and detection, especially in multi-centre settings. To address this challenge, we have proposed several deep learning–based stain normalization methods. Our earlier work (ISBI 2021) showed that using hematoxylin components as input can effectively enhance texture feature generation, leading to higher-quality stain-normalised outputs. Building on this, we developed a semi-supervised adversarial framework for stain normalization in histopathology images (MICCAI 2021) and later introduced the Colour Adaptive Generative Network (CAGAN) (MedIA 2022).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Image Generation and Enhancement</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/image-gen-enh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/image-gen-enh/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Interpretability</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/interpretability/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/interpretability/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Ethics</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/maceth/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/maceth/</guid>
-      <description>&lt;p&gt;#Required&lt;/p&gt;&#xA;&lt;p&gt;The study of machine ethics concerns machines that behave appropriately. The complexity of autonomous agents makes it difficult to specify every possible condition in real-world deployment. Therefore, machine ethics research—especially in formal methods—attempts to mitigate any unethical behaviour or intervene if such agents are about to do something unethical.&lt;/p&gt;&#xA;&lt;p&gt;Ethics is used because it reflects how humans are expected to behave in society. In this case, we take a general approach and consider different kinds of ethics proposed by ethicists and philosophers. Without a doubt, there are many rules and guidelines implemented within local groups. In specific environments, these rules and guidelines can then become their own form of &amp;ldquo;ethics&amp;rdquo;, which every interacting agent (robot or human) is required to follow.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Machine Ethics</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/ethics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/ethics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Medical Image Analysis</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/mia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/mia/</guid>
-      <description>&lt;p&gt;#Required&#xA;My research focuses on pathology whole-slide images (WSIs) for cancer prognosis and related medical image analysis. The goal is to extract reliable and interpretable biomarkers from gigapixel pathology images to better predict cancer progression and patient outcomes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Model Fairness</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/medfair/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/medfair/</guid>
-      <description>&lt;p&gt;Ensuring group fairness in deep learning models is crucial in sensitive domains like medical diagnosis, yet studies show they often exhibit demographic performance gaps that undermine trust. Existing debiasing methods typically require sensitive-attribute labels, introduce costly architectural changes, or improve fairness at the expense of utility.&lt;/p&gt;&#xA;&lt;p&gt;We introduce RLU, a medical imaging-oriented bias mitigation framework, which mitigates bias without requiring sensitive‑attribute knowledge or intrusive model modifications.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Model Fairness</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/pcdef/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/pcdef/</guid>
-      <description>&lt;p&gt;Ensuring group fairness in deep learning models is crucial in sensitive domains like medical diagnosis, yet studies show they often exhibit demographic performance gaps that undermine trust. Existing debiasing methods typically require sensitive-attribute labels, introduce costly architectural changes, or improve fairness at the expense of utility.&lt;/p&gt;&#xA;&lt;p&gt;We introduce RLU, a medical imaging-oriented bias mitigation framework, which mitigates bias without requiring sensitive‑attribute knowledge or intrusive model modifications.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nuclei Segmentation</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/nuseg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/nuseg/</guid>
-      <description>&lt;p&gt;Nuclei segmentation aims to accurately identify individual cell nuclei in histopathology images, a critical step for quantitative pathology and disease diagnosis. However, challenges such as overlapping, clustered, or ambiguous nuclei make this task highly complex.&lt;/p&gt;&#xA;&lt;p&gt;Our group focuses on advancing this field through two key research directions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Weakly Supervised &amp;amp; Noise-Robust Learning – reducing reliance on costly pixel-wise annotations.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Domain Generalisation – developing models that remain robust across unseen staining styles, scanners, and clinical settings.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rip Current Data augmentation</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/rip/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/rip/</guid>
-      <description>&lt;p&gt;Rip currents are a common beach hazard, and their visual characteristics are inconsistent and highly variable. Automated detection approaches are limited by lacking large scale annotated datasets. We use generative adversarial networks to synthesize rip currents based on input object detection labels, enriching the dataset to improve detector performance without requiring re-annotation of the generated data.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rip Current Detection</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/rip-detect/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/rip-detect/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Speaker-Adaptive TTS</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/tts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/tts/</guid>
-      <description>&lt;p&gt;Speaker-Adaptive Text-to-Speech (TTS) aims to synthesize natural-sounding speech that accurately mimics the identity, timbre, and prosody of a specific target speaker, often requiring only a few seconds of reference audio (Zero-Shot scenario).&lt;/p&gt;&#xA;&lt;p&gt;My research expands the frontiers of this field by addressing critical challenges in &lt;strong&gt;generalization&lt;/strong&gt;, &lt;strong&gt;cross-lingual adaptation&lt;/strong&gt;, and &lt;strong&gt;data scarcity&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trajectory Prediction</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/traj-pred/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/traj-pred/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Truthfulness</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/truthfulness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/truthfulness/</guid>
-      <description></description>
+      <guid>http://localhost:1313/members/faculty/ruoyu/</guid>
+      <description>&lt;p&gt;Hi, I’m Ruoyu, a PhD student supervised by Yang and Morri.&#xA;My current research interests include vision–language models, parameter-efficient fine-tuning, domain-generalised semantic segmentation, and self-supervised learning. I also have extensive experience in nuclei segmentation and image enhancement.&lt;/p&gt;&#xA;&lt;p&gt;In addition, I am interested in large language models and their reasoning capabilities.&lt;/p&gt;&#xA;&lt;p&gt;Previously, I completed a Master of Information Technology (coursework) at UNSW, during which I undertook both COMP9991 and COMP9992 research projects supervised by Yang. These projects focused on noise-robust weakly supervised nuclei segmentation.&lt;/p&gt;&#xA;&lt;p&gt;Some of my research topics are outlined below. If you are interested in any of them, I would be happy to discuss further. My publications and outputs can also be found on my &lt;strong&gt;&lt;a href=&#34;https://github.com/RuoyuGuo&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;GitHub&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&#34;https://scholar.google.com.au/citations?user=z6IrExMAAAAJ&amp;amp;hl=en&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;Google Scholar&lt;/a&gt;&lt;/strong&gt; pages.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/faculty/morri/</link>
+      <link>http://localhost:1313/members/faculty/yang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/faculty/morri/</guid>
-      <description>&lt;p&gt;My Ph.D. dissertation (1996) investigated The Role of Abductive Reasoning within the Process of Belief Revision (click on this link to view the abstract and, if you wish, download a gzip&amp;rsquo;ed postscript version). It deals mainly with the belief revision framework developed by Alchourrón, Gärdenfors and Makinson (AGM) and uses this theory to investigate various abductive belief revision operators.&lt;/p&gt;&#xA;&lt;p&gt;My main research interests lie in Artificial Intelligence:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Knowledge Representation and Reasoning&lt;/li&gt;&#xA;&lt;li&gt;Belief Change&lt;/li&gt;&#xA;&lt;li&gt;Cognitive Robotics&lt;/li&gt;&#xA;&lt;li&gt;Reasoning About Actions&lt;/li&gt;&#xA;&lt;li&gt;Computational Machine Ethics&lt;/li&gt;&#xA;&lt;li&gt;Neurosymbolic Machine Learning&lt;/li&gt;&#xA;&lt;li&gt;Trustworthy Artificial Intelligence&lt;/li&gt;&#xA;&lt;li&gt;Reasoning and Truthfullness in Large Language Models&lt;/li&gt;&#xA;&lt;li&gt;Robotic Vision&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Currently I am the Deputy Dean (Education) of the Faculty of Engineering at UNSW.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Brain MRI</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/biomedical_image/brain-mri/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/biomedical_image/brain-mri/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Image Enhancement</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/enh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/enh/</guid>
-      <description>&lt;p&gt;Research Overview – Image Enhancement&lt;/p&gt;&#xA;&lt;p&gt;Image enhancement seeks to restore visual clarity under challenging conditions such as low light, noise, blur, or complex real-world degradations. It plays a crucial role in improving downstream perception tasks and visual understanding.&lt;/p&gt;&#xA;&lt;p&gt;Our group advances this field through two core directions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Unsupervised Learning Methods – enhancing images without paired ground truth, enabling scalable real-world deployment.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Multi-Degradation Handling – building models that can adapt to diverse degradations (e.g., low-light, noise, haze) within a unified framework.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anatomical and Lesion Segmentation</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/biomedical_image/anatomical-and-lesion-segmentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/biomedical_image/anatomical-and-lesion-segmentation/</guid>
-      <description></description>
+      <guid>http://localhost:1313/members/faculty/yang/</guid>
+      <description>&lt;p&gt;I am an ARC Future Fellow, Scientia Associate Professor and Associate Head of School (Research) in the School of Computer Science and Engineering, Faculty of Engineering, UNSW Sydney. I graduated with a BEng in Computer Engineering from Nanyang Technological University, Singapore, and obtained a PhD degree in Computer Science from the University of Sydney in 2013.&lt;/p&gt;&#xA;&lt;p&gt;I received the highly competitive Australian Research Council (ARC) Discovery Early Career Researcher Award (DECRA) in 2015, and was an ARC DECRA Fellow at the University of Sydney before joining UNSW as a Lecturer in 2018. I also received a Dean&amp;rsquo;s Research Award from the Faculty of Engineering, University of Sydney in 2017. In 2019, I was awarded the prestigious ARC Future Fellowship, which provides support for excellent mid-career researchers to undertake high quality research in areas of national and international benefit. In 2020, I was awarded a Scientia Fellowship from UNSW, which supports career development of outstanding researchers. In 2021, I received two grant awards from Google and the Faculty of Engineering Research Excellence Award. In 2022, I received a large NHMRC Ideas Grant on computational brain imaging led by my collaborator at Macquarie University. In 2023, I received a Women in AI award for AI in Innovation in the Asia-pacific region. I also received an ARC Linkage Project Grant on rip current detection in collaboration with Surf Life Saving Australia, and an Award for Inclusion Research from Google. In 2024, I am one of the chief investigators receiving a large ARC grant to establish the Industrial Transformation Research Hub for Human-Robot Teaming. In 2025, I received an ARC Discovery Project grant on contextualised commonsense reasoning with neuro-symbolic AI. I have been listed among the World&amp;rsquo;s Top 2% Scientists by Stanford University and Elsevier since 2022.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/ari_info/</link>
+      <link>http://localhost:1313/members/faculty/morri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/ari_info/</guid>
-      <description>&lt;!-- #Required --&gt;&#xA;&lt;p&gt;Hey, I&amp;rsquo;m Ari. I was a PhD student at UNSW from 2020 to 2024 supervised by Yang Song and Erik Meijering. My PhD was focused on investigating the use of deep learning to aid understanding of brain structure and function. I now work as a research scientist at Seeing Machines where I primarily focus on the use of deep learning for drivery safety purposes. More generally, I&amp;rsquo;m interested in AI, robotics, and virtual reality.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/members/faculty/morri/</guid>
+      <description>&lt;p&gt;My Ph.D. dissertation (1996) investigated The Role of Abductive Reasoning within the Process of Belief Revision (click on this link to view the abstract and, if you wish, download a gzip&amp;rsquo;ed postscript version). It deals mainly with the belief revision framework developed by Alchourrón, Gärdenfors and Makinson (AGM) and uses this theory to investigate various abductive belief revision operators.&lt;/p&gt;&#xA;&lt;p&gt;My main research interests lie in Artificial Intelligence:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Knowledge Representation and Reasoning&lt;/li&gt;&#xA;&lt;li&gt;Belief Change&lt;/li&gt;&#xA;&lt;li&gt;Cognitive Robotics&lt;/li&gt;&#xA;&lt;li&gt;Reasoning About Actions&lt;/li&gt;&#xA;&lt;li&gt;Computational Machine Ethics&lt;/li&gt;&#xA;&lt;li&gt;Neurosymbolic Machine Learning&lt;/li&gt;&#xA;&lt;li&gt;Trustworthy Artificial Intelligence&lt;/li&gt;&#xA;&lt;li&gt;Reasoning and Truthfullness in Large Language Models&lt;/li&gt;&#xA;&lt;li&gt;Robotic Vision&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Currently I am the Deputy Dean (Education) of the Faculty of Engineering at UNSW.&lt;/p&gt;&#xA;&lt;p&gt;Previously I served as the Head of the School of Computer Science and Engineering (CSE) from July 2010 to September 2019.&lt;/p&gt;&#xA;&lt;p&gt;Other roles I currently hold include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fellow, Australian Academy of Technological Sciences &amp;amp; Engineering (ATSE)&lt;/li&gt;&#xA;&lt;li&gt;Deputy Director of Creative Robotics Lab (CRL) and Co-Director of the Intelligent Environments Lab&lt;/li&gt;&#xA;&lt;li&gt;Professorial Fellow at the iCinema Centre for Interactive Cinema Research&lt;/li&gt;&#xA;&lt;li&gt;Director &amp;amp; Chair Lifetime Awards, Pearcey Foundation&lt;/li&gt;&#xA;&lt;li&gt;Vice President, Computing Research and Education Association of Australasia (CORE)&lt;/li&gt;&#xA;&lt;li&gt;Executive, Australian Council of Engineering Deans (ACED)&lt;/li&gt;&#xA;&lt;li&gt;College of Experts, Australian Research Council (ARC)&lt;/li&gt;&#xA;&lt;li&gt;Member, Artificial Intelligence (AI) &amp;amp; Ethics Committee, Australian Computer Society (ACS)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Previous roles I have held include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;President (mid-2016 &amp;ndash; mid-2018) and the Immediate Past President (mid-2018 &amp;ndash; mid-2020) of the Australian Council of Deans of ICT (ACDICT)&lt;/li&gt;&#xA;&lt;li&gt;Chair of NICTA (now Data61; Australia&amp;rsquo;s national ICT centre of excellence) University Partner Committee&lt;/li&gt;&#xA;&lt;li&gt;Chair, NSW Steering Committee for Digital Careers.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/cong/</link>
+      <link>http://localhost:1313/members/alumni/ari_info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/cong/</guid>
-      <description>&lt;p&gt;I am Cong Cong, currently a Postdoctoral Fellow at the Australian Institute of Health Innovation, Macquarie University, working with Associate Professor Sidong Liu. Before this, I completed my PhD at UNSW with the thesis “Computer Vision in Histopathology Image Analysis: Preprocessing and Classification”, supervised by Associate Professor Yang Song and Professor Maurice Pagnucco.&lt;/p&gt;&#xA;&lt;p&gt;My research mainly focuses on developing deep learning methods for digital pathology and brain MRI, including stain normalisation, whole-slide image (WSI) classification, and privacy-preserving multimodal modelling for cancer diagnosis. Beyond these topics, I am also interested in general image-related computer vision problems such as long-tailed classification, parameter-efficient fine-tuning (PEFT), and dataset distillation. A full list of my research outputs can be found on my &lt;strong&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=nkoXlaa-ODkC&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;&lt;/strong&gt; page. Please feel free to reach out if you are interested in potential collaborations.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/members/alumni/ari_info/</guid>
+      <description>&lt;!-- #Required --&gt;&#xA;&lt;p&gt;Hey, I&amp;rsquo;m Ari. I was a PhD student at UNSW from 2020 to 2024 supervised by Yang Song and Erik Meijering. My PhD was focused on investigating the use of deep learning to aid understanding of brain structure and function. I now work as a research scientist at Seeing Machines where I primarily focus on the use of deep learning for drivery safety purposes. More generally, I&amp;rsquo;m interested in AI, robotics, and virtual reality.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/lei/</link>
+      <link>http://localhost:1313/members/alumni/cong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/lei/</guid>
-      <description>&lt;!-- #Required --&gt;&#xA;&lt;p&gt;I received my PhD from UNSW Sydney in 2024, specializing in computer vision and machine learning&lt;/p&gt;</description>
+      <guid>http://localhost:1313/members/alumni/cong/</guid>
+      <description>&lt;p&gt;I am Cong Cong, currently a Postdoctoral Fellow at the Australian Institute of Health Innovation, Macquarie University, working with Associate Professor Sidong Liu. Before this, I completed my PhD at UNSW with the thesis “Computer Vision in Histopathology Image Analysis: Preprocessing and Classification”, supervised by Associate Professor Yang Song and Professor Maurice Pagnucco.&lt;/p&gt;&#xA;&lt;p&gt;My research mainly focuses on developing deep learning methods for digital pathology and brain MRI, including stain normalisation, whole-slide image (WSI) classification, and privacy-preserving multimodal modelling for cancer diagnosis. Beyond these topics, I am also interested in general image-related computer vision problems such as long-tailed classification, parameter-efficient fine-tuning (PEFT), and dataset distillation. A full list of my research outputs can be found on my &lt;strong&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=nkoXlaa-ODkC&amp;amp;hl=en&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;Google Scholar&lt;/a&gt;&lt;/strong&gt; page. Please feel free to reach out if you are interested in potential collaborations.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/priyanka/</link>
+      <link>http://localhost:1313/members/alumni/lei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/priyanka/</guid>
-      <description>&lt;p&gt;Dr Priyanka Rana is a researcher in the Centre for Health Informatics (CHI), Australian Institute of Health Innovation (AIHI). She received her PhD in Computer Science from UNSW Sydney in March 2023.&lt;/p&gt;&#xA;&lt;p&gt;She specializes in AI-based deep learning for biomedical image analysis at both the cellular or whole slide levels.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://researchers.mq.edu.au/en/persons/priyanka-rana/&#34;&gt;https://researchers.mq.edu.au/en/persons/priyanka-rana/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/members/alumni/lei/</guid>
+      <description>&lt;!-- #Required --&gt;&#xA;&lt;p&gt;I received my PhD from UNSW Sydney in 2024, specializing in computer vision and machine learning&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/ray/</link>
+      <link>http://localhost:1313/members/alumni/priyanka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/ray/</guid>
-      <description>&lt;!-- #Required&#xA;Write an introduction about yourself here.  &#xA;**Markdown** formatting is supported --&gt;&#xA;&lt;p&gt;Hi, my name is Ray. I completed my PhD under the supervision of Morri and Yang in 2024.&#xA;My main research topic during my studies was machine ethics, particularly top-down machine ethics using epistemic logic. I explored various interpretations of ethics proposed by different ethicists and philosophers, and implemented them using formal methods across a range of scenarios.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/members/alumni/priyanka/</guid>
+      <description>&lt;p&gt;Dr Priyanka Rana is a researcher in the Centre for Health Informatics (CHI), Australian Institute of Health Innovation (AIHI). She received her PhD in Computer Science from UNSW Sydney in March 2023.&lt;/p&gt;&#xA;&lt;p&gt;She specializes in AI-based deep learning for biomedical image analysis at both the cellular or whole slide levels.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://researchers.mq.edu.au/en/persons/priyanka-rana/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://researchers.mq.edu.au/en/persons/priyanka-rana/&lt;/a&gt;&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/renhao/</link>
+      <link>http://localhost:1313/members/alumni/ray/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/renhao/</guid>
-      <description>&lt;!-- #Required --&gt;&#xA;&lt;p&gt;I have received his PhD degree in Computer Science from the University of New South Wales in February 2025. My PhD study primarily focuses on vision-based human trajectory prediction and computer vision.&lt;/p&gt;&#xA;&lt;p&gt;I am now an ARC Laureate Postdoctoral Research Fellow at iCinema Centre for Interactive Cinema Research, as well as its Associate Director Research (AI). My current interdisciplinary research encompasses the fields of wildfire spread prediction, wildfire simulation and deep learning.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/members/alumni/ray/</guid>
+      <description>&lt;!-- #Required&#xA;Write an introduction about yourself here.  &#xA;**Markdown** formatting is supported --&gt;&#xA;&lt;p&gt;Hi, my name is Ray. I completed my PhD under the supervision of Morri and Yang in 2024.&#xA;My main research topic during my studies was machine ethics, particularly top-down machine ethics using epistemic logic. I explored various interpretations of ethics proposed by different ethicists and philosophers, and implemented them using formal methods across a range of scenarios.&lt;/p&gt;&#xA;&lt;p&gt;At the moment, I am focusing on developing verifiable architectures for autonomous robots. This involves capturing the necessary requirements and translating them into machine-understandable languages, applying various verification techniques such as model checking, satisfiability checking, and runtime monitoring, and developing design patterns to support reusability and integration.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/xiekunzi/</link>
+      <link>http://localhost:1313/members/alumni/renhao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/xiekunzi/</guid>
-      <description>&lt;p&gt;Hi, I’m Kunzi, a PhD student working in deep learning for medical image analysis.&lt;br&gt;&#xA;My research focuses on &lt;strong&gt;medical image segmentation&lt;/strong&gt;, &lt;strong&gt;image registration&lt;/strong&gt;, and &lt;strong&gt;microscopy image analysis&lt;/strong&gt;, particularly in histopathology and electron microscopy. I am interested in developing robust and efficient models that can reduce annotation requirements, improve generalisation, and support high-resolution biomedical imaging.&lt;/p&gt;&#xA;&lt;p&gt;My work explores weakly supervised learning, domain-aware regularisation, and transformer-based architectures to enhance segmentation and registration performance under challenging imaging conditions. I aim to design methods that are both computationally practical and clinically meaningful.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/members/alumni/renhao/</guid>
+      <description>&lt;!-- #Required --&gt;&#xA;&lt;p&gt;I have received his PhD degree in Computer Science from the University of New South Wales in February 2025. My PhD study primarily focuses on vision-based human trajectory prediction and computer vision.&lt;/p&gt;&#xA;&lt;p&gt;I am now an ARC Laureate Postdoctoral Research Fellow at iCinema Centre for Interactive Cinema Research, as well as its Associate Director Research (AI). My current interdisciplinary research encompasses the fields of wildfire spread prediction, wildfire simulation and deep learning.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/haonan/</link>
+      <link>http://localhost:1313/members/alumni/xiekunzi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/haonan/</guid>
-      <description>&lt;p&gt;I am a PhD student in the School of Computer Science and Engineering, Faculty of Engineering, UNSW Sydney, supervised by A/Prof. Yang Song and Prof. Maurice Pagnucco. I received my Bachelor of Computer Science (Honours) from the University of New South Wales.&lt;/p&gt;&#xA;&lt;p&gt;My research focuses on Vision-Language Models and Image/Video Generation, with an emphasis on fairness, interpretability, and the reliability of AI systems.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/jiaqi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/jiaqi/</guid>
-      <description>&lt;p&gt;Hi, I am currently a PhD candidate supervised by Prof. Pagnucco and Prof. Song. My current research interests include safety of large language models (LLMs), explainability of LLMs, parameter efficient fine-tuning, and model merging. I am also interested in studying these aspects in multimodal models, particularly vision–language models.&lt;/p&gt;&#xA;&lt;p&gt;Previously, I completed a Bachelor of Science in Computer Science at UNSW, and conducted honours research project under the supervision of Prof. Pagnucco.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/qingcheng/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/qingcheng/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;I am Qingchen Tang, currently an MPhil student at the University of New South Wales (UNSW), supervised by Yang, with co-supervision from Flora and Sanjay.&lt;/p&gt;&#xA;&lt;p&gt;My research interests focus on vision–language models, generative model safety, and machine unlearning. I also have solid research experience in image segmentation, with particular attention to weakly supervised and annotation-efficient medical image segmentation.&lt;/p&gt;&#xA;&lt;p&gt;Prior to my MPhil studies, I completed a Master of Information Technology (Coursework) at UNSW. During this time, I undertook two research courses, COMP9991 and COMP9993, under the supervision of  Yang, where my work primarily investigated weakly supervised medical image segmentation methods.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/shenyang_qian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/shenyang_qian/</guid>
-      <description>&lt;!-- #Required --&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Shenyang, a PhD student supervised by Yang.&lt;/p&gt;&#xA;&lt;p&gt;My research interests include object detection, computer vision, data augmentation, domain adaptation and few-shot learning. My current work focuses on deep learning based rip current detection methods, including dataset construction and detector design.&lt;/p&gt;&#xA;&lt;p&gt;Perviously, I completed a Master&amp;rsquo;s degree in Information Technology from UNSW, during which I undertook both COMP9991 and COMP9993 research projects supervised by Yang. These projects are related to few-shot learning in medical images segmentation.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/sicong/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/sicong/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m Sicong. I am an MPhil student supervised by supervised by Yang and Morri at the UNSW.&#xA;I completed my Bachelor’s degree in Computer Science at the UNSW, with a focus on artificial intelligence. During my MPhil studies, I was awarded the UNSW PhD UIPA Scholarship.&#xA;My current research interests include vision–language models, parameter-efficient fine-tuning, robot navigation, and medical image segmentation. If you share similar interests, I would be very happy to discuss potential collaborations.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/this-is-tammy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/this-is-tammy/</guid>
-      <description>&lt;p&gt;Hello my reader! I am Tammy, a PhD student supervised by Morri and Yang. Previously, I graduated from Bachelor of Engineering (Honours) (Software) at UNSW where Morri was also my primary supervisor for my honours thesis. Currently, my research focus is on the area of Computational Machine Ethics (check out our survey paper on this!).I am specifically on ethical AI agents.&lt;/p&gt;&#xA;&lt;p&gt;I am also invested in exploring the capabilities of large language models and their capabilities in ethical decision-making or how we can leverage them to facilitate such processes (a bit controversial!). More generally, the intersection between the ambiguity/art of humans and the certainty/science of machines interests me greatly.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/wenbin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/wenbin/</guid>
-      <description>&lt;p&gt;Hi, I’m Wenbin, a PhD Candidate at UNSW, supervised by &lt;strong&gt;Prof. Sanjay Jha&lt;/strong&gt; and &lt;strong&gt;A/Prof. Yang Song&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;My research primarily focuses on &lt;strong&gt;Generative AI&lt;/strong&gt; and &lt;strong&gt;Text-to-Speech (TTS)&lt;/strong&gt; technologies, with a specific interest in &lt;strong&gt;Voice Cloning&lt;/strong&gt;, &lt;strong&gt;Talking-head Generation&lt;/strong&gt;, and &lt;strong&gt;Zero-Shot Speaker-Adaptive TTS&lt;/strong&gt;. I am also actively researching &lt;strong&gt;Voice Data Attribution&lt;/strong&gt; and &lt;strong&gt;Anti-Spoofing&lt;/strong&gt; within the context of trustworthy digital societies.&lt;/p&gt;&#xA;&lt;p&gt;Beyond academia, I am the &lt;strong&gt;Co-founder and Technical Lead of Sozio.AI Pty Ltd&lt;/strong&gt;, a UNSW-incubated startup where we are developing a &amp;ldquo;Virtual Tutor System&amp;rdquo; to bring real-time, interactive AI avatars to education. My work bridges the gap between cutting-edge research and commercial application, translating theoretical advancements into scalable products.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/yafei/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/yafei/</guid>
-      <description>&lt;p&gt;Hi, I’m Yafei, a Master of Philosophy candidate at the University of New South Wales (UNSW), supervised by Dr. Yang Song and Prof. Erik Meijering.&lt;/p&gt;&#xA;&lt;p&gt;My research primarily focuses on Remote Sensing Change Detection (CD). I am particularly interested in addressing the data scarcity challenge in remote sensing by leveraging Image-to-Image (I2I) translation and Generative Models (GANs/Diffusion) to produce high-quality synthetic data. By bridging the synthetic-real domain gap, my work aims to enhance the robustness of change detection frameworks under supervised and semi-supervised settings.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/yiwen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/yiwen/</guid>
-      <description>&lt;p&gt;Hi, I’m Yiwen, a PhD candidate supervised by Yang Song, Maurice Pagnucco, and Erik Meijering.&#xA;My research interests include image reconstruction and editing, biomedical image analysis, and efficient deep learning for edge computing. I am particularly interested in developing practical computer vision methods that balance visual quality and reliability with real-world constraints such as limited compute, memory, and latency.&lt;/p&gt;&#xA;&lt;p&gt;In addition, I am interested in foundation models and their adaptation to domain shifts and resource-constrained deployment.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/yongze_wang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/students/yongze_wang/</guid>
-      <description>&lt;p&gt;Hi, I’m a PhD student supervised by Yang and Morri.&#xA;My current research interests include Domain adaptation, Few-shot learning, Cross-domain few-shot, and Image segmentation.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Domain adaptation</title>
-      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/da/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/projects/da/</guid>
-      <description>&lt;p&gt;#Required&#xA;My topics are on domain adaptation on medical image segmentation tasks. Both published methods are based on Mean-teacher model&#xA;and the paradigm of self-training and data augmentation.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/members/alumni/xiekunzi/</guid>
+      <description>&lt;p&gt;Hi, I’m Kunzi, a PhD student working in deep learning for medical image analysis.&lt;br&gt;&#xA;My research focuses on &lt;strong&gt;medical image segmentation&lt;/strong&gt;, &lt;strong&gt;image registration&lt;/strong&gt;, and &lt;strong&gt;microscopy image analysis&lt;/strong&gt;, particularly in histopathology and electron microscopy. I am interested in developing robust and efficient models that can reduce annotation requirements, improve generalisation, and support high-resolution biomedical imaging.&lt;/p&gt;&#xA;&lt;p&gt;My work explores weakly supervised learning, domain-aware regularisation, and transformer-based architectures to enhance segmentation and registration performance under challenging imaging conditions. I aim to design methods that are both computationally practical and clinically meaningful.&lt;/p&gt;&#xA;&lt;p&gt;Previously, I completed research projects in automated microscopy image analysis, focusing on noise-robust nuclei segmentation and weakly supervised label utilisation.&lt;/p&gt;&#xA;&lt;p&gt;Some of my research topics are listed below. If you are interested in any of these areas, I would be happy to discuss further.&lt;br&gt;&#xA;My publications and outputs can be found on my &lt;strong&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=-j6en_oAAAAJ&amp;amp;hl=zh-CN&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;Google Scholar&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&#34;https://github.com/winnie172026&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;GitHub&lt;/a&gt;&lt;/strong&gt; pages.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>

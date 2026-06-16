@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Research Areas on Neuro-Reasoning Lab</title>
-    <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/</link>
-    <description>Recent content in Our Research Areas on Neuro-Reasoning Lab</description>
-    <generator>Hugo</generator>
+    <title>Our Research Areas - Neuro-Reasoning Lab</title>
+    <link>http://localhost:1313/research/</link>
+    <description>Neuro-Reasoning Lab</description>
+    <generator>Hugo 0.157.0 &amp; FixIt v0.4.0-alpha-20250721024521-a1cd700b</generator>
     <language>en-us</language>
-    <atom:link href="https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Vision and Robotics Applications</title>
+      <link>http://localhost:1313/research/computer_vision_application/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/computer_vision_application/</guid>
+      <description>Computer Vision and Robotics Applications</description>
+    </item>
+    <item>
+      <title>AI Trustworthiness</title>
+      <link>http://localhost:1313/research/trustworthiness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/trustworthiness/</guid>
+      <description>AI Trustworthiness</description>
+    </item>
+    <item>
+      <title>Biomedical Imaging</title>
+      <link>http://localhost:1313/research/biomedical_image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/biomedical_image/</guid>
+      <description>Biomedical Imaging</description>
+    </item>
   </channel>
 </rss>
