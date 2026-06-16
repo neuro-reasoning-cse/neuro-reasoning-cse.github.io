@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Trustworthiness on Neuro-Reasoning Lab</title>
-    <link>http://localhost:1313/research/trustworthiness/</link>
+    <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/</link>
     <description>Recent content in AI Trustworthiness on Neuro-Reasoning Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/research/trustworthiness/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fairness, Debiasing and Robustness</title>
-      <link>http://localhost:1313/research/trustworthiness/fairness/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/fairness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/trustworthiness/fairness/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/fairness/</guid>
       <description></description>
     </item>
     <item>
       <title>Interpretability</title>
-      <link>http://localhost:1313/research/trustworthiness/interpretability/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/interpretability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/trustworthiness/interpretability/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/interpretability/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Ethics</title>
-      <link>http://localhost:1313/research/trustworthiness/ethics/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/ethics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/trustworthiness/ethics/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/ethics/</guid>
       <description></description>
     </item>
     <item>
       <title>Truthfulness</title>
-      <link>http://localhost:1313/research/trustworthiness/truthfulness/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/truthfulness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/trustworthiness/truthfulness/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/trustworthiness/truthfulness/</guid>
       <description></description>
     </item>
   </channel>

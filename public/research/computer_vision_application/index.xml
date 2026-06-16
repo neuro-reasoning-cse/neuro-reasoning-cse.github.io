@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer Vision and Robotics Applications on Neuro-Reasoning Lab</title>
-    <link>http://localhost:1313/research/computer_vision_application/</link>
+    <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/</link>
     <description>Recent content in Computer Vision and Robotics Applications on Neuro-Reasoning Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/research/computer_vision_application/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Action Planing</title>
-      <link>http://localhost:1313/research/computer_vision_application/act-plan/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/act-plan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/computer_vision_application/act-plan/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/act-plan/</guid>
       <description></description>
     </item>
     <item>
       <title>Action Recognition</title>
-      <link>http://localhost:1313/research/computer_vision_application/act-recognition/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/act-recognition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/computer_vision_application/act-recognition/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/act-recognition/</guid>
       <description></description>
     </item>
     <item>
       <title>Anomaly Detection</title>
-      <link>http://localhost:1313/research/computer_vision_application/anom-detect/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/anom-detect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/computer_vision_application/anom-detect/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/anom-detect/</guid>
       <description></description>
     </item>
     <item>
       <title>Grain Quality Inspection</title>
-      <link>http://localhost:1313/research/computer_vision_application/grain-insp/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/grain-insp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/computer_vision_application/grain-insp/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/grain-insp/</guid>
       <description></description>
     </item>
     <item>
       <title>Image Generation and Enhancement</title>
-      <link>http://localhost:1313/research/computer_vision_application/image-gen-enh/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/image-gen-enh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/computer_vision_application/image-gen-enh/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/image-gen-enh/</guid>
       <description></description>
     </item>
     <item>
       <title>Rip Current Detection</title>
-      <link>http://localhost:1313/research/computer_vision_application/rip-detect/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/rip-detect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/computer_vision_application/rip-detect/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/rip-detect/</guid>
       <description></description>
     </item>
     <item>
       <title>Trajectory Prediction</title>
-      <link>http://localhost:1313/research/computer_vision_application/traj-pred/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/traj-pred/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/computer_vision_application/traj-pred/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/research/computer_vision_application/traj-pred/</guid>
       <description></description>
     </item>
   </channel>

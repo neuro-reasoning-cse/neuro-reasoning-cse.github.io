@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Alumni on Neuro-Reasoning Lab</title>
-    <link>http://localhost:1313/members/alumni/</link>
+    <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/</link>
     <description>Recent content in Our Alumni on Neuro-Reasoning Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/members/alumni/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/members/alumni/ari_info/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/ari_info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/members/alumni/ari_info/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/ari_info/</guid>
       <description>&lt;!-- #Required --&gt;&#xA;&lt;p&gt;Hey, I&amp;rsquo;m Ari. I was a PhD student at UNSW from 2020 to 2024 supervised by Yang Song and Erik Meijering. My PhD was focused on investigating the use of deep learning to aid understanding of brain structure and function. I now work as a research scientist at Seeing Machines where I primarily focus on the use of deep learning for drivery safety purposes. More generally, I&amp;rsquo;m interested in AI, robotics, and virtual reality.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/members/alumni/cong/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/cong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/members/alumni/cong/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/cong/</guid>
       <description>&lt;p&gt;I am Cong Cong, currently a Postdoctoral Fellow at the Australian Institute of Health Innovation, Macquarie University, working with Associate Professor Sidong Liu. Before this, I completed my PhD at UNSW with the thesis “Computer Vision in Histopathology Image Analysis: Preprocessing and Classification”, supervised by Associate Professor Yang Song and Professor Maurice Pagnucco.&lt;/p&gt;&#xA;&lt;p&gt;My research mainly focuses on developing deep learning methods for digital pathology and brain MRI, including stain normalisation, whole-slide image (WSI) classification, and privacy-preserving multimodal modelling for cancer diagnosis. Beyond these topics, I am also interested in general image-related computer vision problems such as long-tailed classification, parameter-efficient fine-tuning (PEFT), and dataset distillation. A full list of my research outputs can be found on my &lt;strong&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=nkoXlaa-ODkC&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;&lt;/strong&gt; page. Please feel free to reach out if you are interested in potential collaborations.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/members/alumni/lei/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/lei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/members/alumni/lei/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/lei/</guid>
       <description>&lt;!-- #Required --&gt;&#xA;&lt;p&gt;I received my PhD from UNSW Sydney in 2024, specializing in computer vision and machine learning&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/members/alumni/priyanka/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/priyanka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/members/alumni/priyanka/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/priyanka/</guid>
       <description>&lt;p&gt;Dr Priyanka Rana is a researcher in the Centre for Health Informatics (CHI), Australian Institute of Health Innovation (AIHI). She received her PhD in Computer Science from UNSW Sydney in March 2023.&lt;/p&gt;&#xA;&lt;p&gt;She specializes in AI-based deep learning for biomedical image analysis at both the cellular or whole slide levels.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://researchers.mq.edu.au/en/persons/priyanka-rana/&#34;&gt;https://researchers.mq.edu.au/en/persons/priyanka-rana/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/members/alumni/ray/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/ray/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/members/alumni/ray/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/ray/</guid>
       <description>&lt;!-- #Required&#xA;Write an introduction about yourself here.  &#xA;**Markdown** formatting is supported --&gt;&#xA;&lt;p&gt;Hi, my name is Ray. I completed my PhD under the supervision of Morri and Yang in 2024.&#xA;My main research topic during my studies was machine ethics, particularly top-down machine ethics using epistemic logic. I explored various interpretations of ethics proposed by different ethicists and philosophers, and implemented them using formal methods across a range of scenarios.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/members/alumni/renhao/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/renhao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/members/alumni/renhao/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/renhao/</guid>
       <description>&lt;!-- #Required --&gt;&#xA;&lt;p&gt;I have received his PhD degree in Computer Science from the University of New South Wales in February 2025. My PhD study primarily focuses on vision-based human trajectory prediction and computer vision.&lt;/p&gt;&#xA;&lt;p&gt;I am now an ARC Laureate Postdoctoral Research Fellow at iCinema Centre for Interactive Cinema Research, as well as its Associate Director Research (AI). My current interdisciplinary research encompasses the fields of wildfire spread prediction, wildfire simulation and deep learning.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/members/alumni/xiekunzi/</link>
+      <link>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/xiekunzi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/members/alumni/xiekunzi/</guid>
+      <guid>https://studious-space-invention-jqwv5rx5xj35xr7-1313.app.github.dev/members/alumni/xiekunzi/</guid>
       <description>&lt;p&gt;Hi, I’m Kunzi, a PhD student working in deep learning for medical image analysis.&lt;br&gt;&#xA;My research focuses on &lt;strong&gt;medical image segmentation&lt;/strong&gt;, &lt;strong&gt;image registration&lt;/strong&gt;, and &lt;strong&gt;microscopy image analysis&lt;/strong&gt;, particularly in histopathology and electron microscopy. I am interested in developing robust and efficient models that can reduce annotation requirements, improve generalisation, and support high-resolution biomedical imaging.&lt;/p&gt;&#xA;&lt;p&gt;My work explores weakly supervised learning, domain-aware regularisation, and transformer-based architectures to enhance segmentation and registration performance under challenging imaging conditions. I aim to design methods that are both computationally practical and clinically meaningful.&lt;/p&gt;</description>
     </item>
   </channel>
