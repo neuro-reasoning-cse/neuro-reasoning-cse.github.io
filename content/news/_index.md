@@ -4,6 +4,8 @@ welcome_intro: Stay up to date with the latest events and achievements from our 
 
 
 news:
+  - date: "06/2026"
+    content: "Our recent work on foundation models for domain generalised semantic segmentation has been accepted in IROS 2026 (a token-level fusion method) and ECCV 2026 (a hierarchical prompt injection method)."
   - date: "04/2026"
     content: "Our paper on iFire AI has been accepted at IJCAI 2026, showcasing our work on AI-based wildfire visualisation (https://www.unsw.edu.au/research/icinema/our-research/projects/ifire)."
   - date: "03/2026"
