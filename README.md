@@ -2,6 +2,11 @@
 
 The website for the Neuro-Reasoning Lab at CSE, UNSW, built with [Hugo](https://gohugo.io/) using the [FixIt](https://github.com/hugo-fixit/FixIt) theme.
 
+## Updates
+
+25/06/2026: News and projects now support Markdown format. The documentation is complete.
+
+
 ## Local Development
 
 We use GitHub Codespaces to update the website content.

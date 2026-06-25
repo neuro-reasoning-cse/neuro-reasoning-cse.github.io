@@ -27,7 +27,7 @@
       {{ range $acc }}
         <li style="margin: 0.3rem 0;">
           <span style="color: #777; white-space: nowrap;">{{ dateFormat "01/2006" .t }}</span> —
-          <span>{{ .content | safeHTML }}</span>
+          <span>{{ $.RenderString (dict "display" "inline") .content }}</span>
         </li>
       {{ end }}
     </ul>

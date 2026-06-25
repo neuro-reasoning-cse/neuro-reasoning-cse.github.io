@@ -15,11 +15,7 @@
     display: block;           
     margin-top: auto;        
   }
-Git
-  .research-title:hover {
-    background: rgba(0, 0, 0, 0.9);
-    transform: scale(1.03);
-  }
+
 
 </style>
 
@@ -40,7 +36,7 @@ Git
         <ul style="padding-left: 1.2rem; line-height: 1.8;">
           {{ range .items }}
             <li style="margin-bottom: 0.6rem;">
-              {{ . }}
+              {{ $.RenderString (dict "display" "inline") . }}
             </li>
           {{ end }}
         </ul>

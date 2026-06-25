@@ -16,31 +16,13 @@
     <loc>http://localhost:1313/research/computer_vision_application/anom-detect/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/mri/</loc>
-  </url>
-  <url>
     <loc>http://localhost:1313/research/biomedical_image/cancer-analysis/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/imb/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/cme/cme/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/cva/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/research/trustworthiness/fairness/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/gm/</loc>
-  </url>
-  <url>
     <loc>http://localhost:1313/research/computer_vision_application/grain-insp/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/stnorm/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/research/computer_vision_application/image-gen-enh/</loc>
@@ -49,31 +31,10 @@
     <loc>http://localhost:1313/research/trustworthiness/interpretability/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/maceth/</loc>
-  </url>
-  <url>
     <loc>http://localhost:1313/research/trustworthiness/ethics/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/mia/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/medfair/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/pcdef/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/nuseg/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/rip/</loc>
-  </url>
-  <url>
     <loc>http://localhost:1313/research/computer_vision_application/rip-detect/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/tts/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/research/computer_vision_application/traj-pred/</loc>
@@ -89,9 +50,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/research/computer_vision_application/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/enh/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/research/trustworthiness/</loc>
@@ -155,9 +113,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/categories/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/da/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/members/</loc>
