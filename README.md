@@ -30,21 +30,6 @@ After making changes, push them to the GitHub repo (the same way you normally us
 
 **Note:** Every time you create a new Codespace, you must repeat **Step 2** to pull the FixIt theme.
 
-## Overview
-
-Hugo lets us manage the website easily. We only need to focus on three folders (`/content`, `/layouts`, and `/static`) and one file (`hugo.toml`).
-
-Hugo uses HTML template files (in `/layouts`) to build the front-end pages, and automatically fills in the content (from `/content`) at the corresponding placeholders. Content is written as structured Markdown files, so there is no need to learn a new programming language.
-
-**`/layouts` and `/content` both use a tree structure to organise pages, so their folder structures mirror each other.** Each node (page) has a corresponding layout (`xxx.html`) and content file (`xxx.md`). If a page has no layout of its own, Hugo searches upward and uses the closest available layout.
-
-`/static` stores all the image assets used across the website, such as photos, icons, and avatars. These files are served as-is, and you reference them by their path relative to `/static/` (for example, an image at `/static/images/front-image.png` is written as `images/front-image.png`).
-
-In practice, we usually only edit `/content` to update the website, since most layouts are already finished and will automatically adapt to newly added content.
-
-`hugo.toml` controls the more general, site-wide settings.
-
-<!-- such as the menu, the site title, and the site icon -->
 
 ## Quickstart
 
@@ -62,7 +47,7 @@ There are three main templates under `/layouts/`: `home.html`, `list.html`, and 
 
 **Content**
 
-- **Members** (`/content/members/`): Add a `yourname.md` file to the relevant folder to add a person to the page. Templates for the different positions (students, alumni, and faculty) are located in `/templates/`.
+- **Members** (`/content/members/`): Add a `yourname.md` file to the relevant folder to add a person to the page. Templates are located in `/templates/`. Use `student-alumni_template.md` for students and alumni. Use `faculty_template.md` for faculty members.
 
 - **News** (`/content/news/`): Edit `/content/news/_index.md` to add news. Each entry should follow the structure below, listed under the `news` parameter:
 
@@ -84,11 +69,35 @@ There are three main templates under `/layouts/`: `home.html`, `list.html`, and 
       - "project 2"
 ```
 
-- **Research** (`/content/research/`): Create a new folder under `/content/research/` to add a research theme block, and create a new folder under `/content/research/<theme>/` to add a subarea.
+- **Research** (`/content/research/`): To add a research theme block, create a new folder under `/content/research/`. Then add an `_index.md` inside this theme folder, using `research-theme_template.md` as the template.
+
+  To add a subarea, create a new folder under `/content/research/<theme>/`. Then add an `index.md` inside the subarea folder, using `research-subarea_template.md` as the template.
+
+  So the final structure looks like `/content/research/<theme>/<subarea1>/`.
+
+  For the cover image of each subarea, I use free icons from https://www.flaticon.com/ and draw.io for editing.
+
 
 **Static**
 
-- **Static files** (`/static/`): This folder stores all static assets — mainly images, such as photos, icons, avatars, and figures. Files here are copied directly into the website as-is (no processing). To use one in your content, reference it by its path relative to `/static/`. For example, an image at `/static/images/front-image.png` is referenced as `images/front-image.png`.
+- **Static files** (`/static/`): This folder stores all images, please put all images in here. To use one in your content, reference it by its path relative to `/static/`. For example, an image at `/static/images/front-image.png` is referenced as `images/front-image.png`.
+
+## Overview
+
+Hugo lets us manage the website easily. We only need to focus on three folders (`/content`, `/layouts`, and `/static`) and one file (`hugo.toml`).
+
+Hugo uses HTML template files (in `/layouts`) to build the front-end pages, and automatically fills in the content (from `/content`) at the corresponding placeholders. Content is written as structured Markdown files, so there is no need to learn a new programming language.
+
+**`/layouts` and `/content` both use a tree structure to organise pages, so their folder structures mirror each other.** Each node (page) has a corresponding layout (`xxx.html`) and content file (`xxx.md`). If a page has no layout of its own, Hugo searches upward and uses the closest available layout.
+
+`/static` stores all the image assets used across the website, such as photos, icons, and avatars. These files are served as-is, and you reference them by their path relative to `/static/` (for example, an image at `/static/images/front-image.png` is written as `images/front-image.png`).
+
+In practice, we usually only edit `/content` to update the website, since most layouts are already finished and will automatically adapt to newly added content.
+
+`hugo.toml` controls the more general, site-wide settings.
+
+<!-- such as the menu, the site title, and the site icon -->
+
 
 ## End
 

@@ -4,7 +4,6 @@ name: "Ruoyu Guo"
 description: "Do we really need GPUs for deep learning?"
 avatar: "avatar/ruoyu.png"
 group: "fellow"
-enrol: 202205
 weight: 10
 
 position: "Postdoctoral Research Fellow"
