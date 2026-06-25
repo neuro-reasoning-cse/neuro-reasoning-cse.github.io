@@ -9,7 +9,7 @@ news:
   - date: "05/2026"
     content: "We have written a review paper for simulation in robotics research leveraging Nvidia's Isaac Sim, which is now available online: [https://arxiv.org/abs/2606.03551](https://arxiv.org/abs/2606.03551)."
   - date: "04/2026"
-    content: "Our paper on iFire AI has been accepted at IJCAI 2026, showcasing our work on AI-based wildfire visualisation [https://www.unsw.edu.au/research/icinema/our-research/projects/ifire](https://www.unsw.edu.au/research/icinema/our-research/projects/ifire)."
+    content: "Our paper on iFire AI has been accepted at IJCAI 2026, showcasing our work on AI-based wildfire visualisation ([https://www.unsw.edu.au/research/icinema/our-research/projects/ifire](https://www.unsw.edu.au/research/icinema/our-research/projects/ifire))."
   - date: "03/2026"
     content: "Presented a poster at NVIDIA's GTC: Reinforcement Learning for Follow-the-Leader Robotic Endoscopic Navigation via Synthetic Depth Data."
   - date: "02/2026"
