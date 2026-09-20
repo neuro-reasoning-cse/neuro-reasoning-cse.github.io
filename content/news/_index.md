@@ -4,6 +4,12 @@ welcome_intro: Stay up to date with the latest events and achievements from our 
 
 
 news:
+  - date: "09/2026"
+    content: "Our recent work on truthfulness in large language models has been accepted in EMNLP 2026 (transcoders for time-sensitive factual recall) and AJCAI 2026 (uncertainty quantification for context-sensitive faithfulness)."
+  - date: "09/2026"
+    content: "Yang presented a keynote talk on Trust in Medical Image Analysis at the International Conference on Intelligent Computing and Engineering for Enterprise Systems (ICICEES 2026)."
+  - date: "08/2026"
+    content: "Our recent work on machine unlearning for fair dermatological image classification has been published in Pattern Recognition: [Paper](https://www.sciencedirect.com/science/article/pii/S0031320326016249)."
   - date: "07/2026"
     content: "Our RoboCup Rescue site is online: [UNSW RoboCup Rescue](https://yuheng-andy-jian.github.io/UNSW-Robocup-Rescue/)."
   - date: "07/2026"
