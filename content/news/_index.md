@@ -4,6 +4,10 @@ welcome_intro: Stay up to date with the latest events and achievements from our 
 
 
 news:
+  - date: "10/2026"
+    content: "Three papers accepted into NeurIPS 2026 on domain-generalised semantic segmentation, temporal alignment in LLMs, and test-time prompt tuning."
+  - date: "10/2026"
+    content: "Our recent work on safe image generation with concept erasure has been accepted in WACV 2027 and ACCV 2026."
   - date: "09/2026"
     content: "Our recent work on truthfulness in large language models has been accepted in EMNLP 2026 (transcoders for time-sensitive factual recall) and AJCAI 2026 (uncertainty quantification for context-sensitive faithfulness)."
   - date: "09/2026"
