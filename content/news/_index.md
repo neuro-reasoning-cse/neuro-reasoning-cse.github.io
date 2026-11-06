@@ -4,6 +4,12 @@ welcome_intro: Stay up to date with the latest events and achievements from our 
 
 
 news:
+  - date: "11/2026"
+    content: "Yang has been appointed to the ARC College of Experts, commencing in 2027."
+  - date: "11/2026"
+    content: "Congratulations to Peibo for receiving the Best Short Paper Award in SIGSPATIAL for his work on cross-city POI recommendation."
+  - date: "11/2026"
+    content: "Congratulations to Haonan for receiving the Engineering HDR Global Research Mobility Grant."
   - date: "10/2026"
     content: "Three papers accepted into NeurIPS 2026 on domain-generalised semantic segmentation, temporal alignment in LLMs, and test-time prompt tuning."
   - date: "10/2026"
