@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biomedical Imaging - Neuro-Reasoning Lab</title>
-    <link>http://localhost:1313/research/biomedical_image/</link>
-    <description>Neuro-Reasoning Lab</description>
-    <generator>Hugo 0.157.0 &amp; FixIt v0.4.0-alpha-20250721024521-a1cd700b</generator>
+    <title>Biomedical Imaging on Neuro-Reasoning Lab</title>
+    <link>https://neuro-reasoning-cse.github.io/research/biomedical_image/</link>
+    <description>Recent content in Biomedical Imaging on Neuro-Reasoning Lab</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/research/biomedical_image/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://neuro-reasoning-cse.github.io/research/biomedical_image/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cancer Analysis</title>
-      <link>http://localhost:1313/research/biomedical_image/cancer-analysis/</link>
+      <link>https://neuro-reasoning-cse.github.io/research/biomedical_image/cancer-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/biomedical_image/cancer-analysis/</guid>
-      <description>Cancer Analysis</description>
+      <guid>https://neuro-reasoning-cse.github.io/research/biomedical_image/cancer-analysis/</guid>
+      <description></description>
     </item>
     <item>
       <title>Brain MRI</title>
-      <link>http://localhost:1313/research/biomedical_image/brain-mri/</link>
+      <link>https://neuro-reasoning-cse.github.io/research/biomedical_image/brain-mri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/biomedical_image/brain-mri/</guid>
-      <description>Brain MRI</description>
+      <guid>https://neuro-reasoning-cse.github.io/research/biomedical_image/brain-mri/</guid>
+      <description></description>
     </item>
     <item>
       <title>Anatomical and Lesion Segmentation</title>
-      <link>http://localhost:1313/research/biomedical_image/anatomical-and-lesion-segmentation/</link>
+      <link>https://neuro-reasoning-cse.github.io/research/biomedical_image/anatomical-and-lesion-segmentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/biomedical_image/anatomical-and-lesion-segmentation/</guid>
-      <description>Anatomical and Lesion Segmentation</description>
+      <guid>https://neuro-reasoning-cse.github.io/research/biomedical_image/anatomical-and-lesion-segmentation/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
